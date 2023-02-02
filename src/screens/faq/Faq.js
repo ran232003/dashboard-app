@@ -1,12 +1,12 @@
 import React from "react";
 import Header from "../../components/Header";
 import "../Screens.css";
-const Dashboard = () => {
+const Faq = () => {
   return (
     <div className="dashboardMain">
-      <Header title="DASHBOARD" subTitle="Welcome to your dashboard" />
+      <Header title="FAQ" subTitle="Welcome to your dashboard" />
     </div>
   );
 };
 
-export default Dashboard;
+export default Faq;

@@ -1,0 +1,15 @@
+.topBarBox {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+}
+.searchBar {
+  display: flex;
+  border-radius: 3px;
+  /* border-color: black;
+  border-style: solid; */
+  margin-left: 5px;
+}
+.title {
+  margin-left: 20px;
+}

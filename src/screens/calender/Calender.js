@@ -1,12 +1,12 @@
 import React from "react";
 import Header from "../../components/Header";
 import "../Screens.css";
-const Dashboard = () => {
+const Calender = () => {
   return (
     <div className="dashboardMain">
-      <Header title="DASHBOARD" subTitle="Welcome to your dashboard" />
+      <Header title="Calender" subTitle="Welcome to your dashboard" />
     </div>
   );
 };
 
-export default Dashboard;
+export default Calender;

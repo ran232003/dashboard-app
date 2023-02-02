@@ -30,5 +30,28 @@ code {
   background-color: #888;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: rgb(85, 85, 85);
+}
+.css-1kt8ah5-MuiDataGrid-root {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  box-sizing: border-box;
+  position: relative;
+  /* border: 1px solid rgba(81, 81, 81, 1); */
+  border-radius: 4px;
+  color: #fff;
+  font-family: Source Sans Pro, sans-serif;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.43;
+  outline: none;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
